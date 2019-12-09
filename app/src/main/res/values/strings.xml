@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="detailed_activity">Detailed Activity</string>
+    <string name="event_details">Event Details</string>
+    <string name="task_details">Task Details</string>
+    <string name="email">Email</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="finish">Finish</string>
+    <string name="email_example_gmail_com">Email (example@gmail.com)</string>
+    <string name="date_yyyy_mm_dd">Date (YYYY-MM-DD)</string>
+    <string name="start_time_11_00">Start Time (11:00)</string>
+    <string name="end_time_14_00">End Time (14:00)</string>
+</resources>
